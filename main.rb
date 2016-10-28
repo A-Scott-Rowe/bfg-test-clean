@@ -1,3 +1,5 @@
+# a comment for somthing in the commit
+
 require './folder2/lib2.rb'
 class A
   extend Scott::Beer
